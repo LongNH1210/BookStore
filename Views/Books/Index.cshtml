@@ -1,0 +1,75 @@
+﻿@model BookStore.Models.CategoryView
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Product Management</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<p>
+    <a asp-controller="Home" asp-action="Management">Back</a>
+</p>
+<form asp-controller="Books" asp-action="Index">
+    <select asp-for="CategoryName" asp-items="Model.Categories">
+        <option value="">All</option>
+    </select>
+    <input type="text" asp-for="SearchString" placeholder="Search Books" />
+    <input type="submit" value="Search" />
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Author
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Rating
+            </th>
+            <th>
+                Category
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Books) {
+        <tr>
+            <td>
+                <img src="~/images/@item.BookPicture" class="rounded-circle" height="100" width="100" />
+                @item.Title
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rating)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category!.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
