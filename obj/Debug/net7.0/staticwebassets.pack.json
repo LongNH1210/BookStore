@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\0e2c9ba3-6a3a-401c-8579-83373b908dc2_SnapTik.ltd_1703403972 (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\0e2c9ba3-6a3a-401c-8579-83373b908dc2_SnapTik.ltd_1703403972 (1).jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\11e7c543-353e-4bad-b338-07b669f06fcc_SnapTik.ltd_1703403969.jpeg",
+      "PackagePath": "staticwebassets\\images\\11e7c543-353e-4bad-b338-07b669f06fcc_SnapTik.ltd_1703403969.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\17dc8396-5d3e-4b3a-be8c-f55ad547c50e_SnapTik.ltd_1703403974.jpeg",
+      "PackagePath": "staticwebassets\\images\\17dc8396-5d3e-4b3a-be8c-f55ad547c50e_SnapTik.ltd_1703403974.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\23138456-5a3f-43e4-95a2-1426f9804001_SnapTik.ltd_1703403968.jpeg",
+      "PackagePath": "staticwebassets\\images\\23138456-5a3f-43e4-95a2-1426f9804001_SnapTik.ltd_1703403968.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\2c21f277-7396-4308-8cf6-9fc80fa9a3b4_SnapTik.ltd_1703403972.jpeg",
+      "PackagePath": "staticwebassets\\images\\2c21f277-7396-4308-8cf6-9fc80fa9a3b4_SnapTik.ltd_1703403972.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\3119c600-4c19-4a3d-94da-49f666f24707_SnapTik.ltd_1703403970.jpeg",
+      "PackagePath": "staticwebassets\\images\\3119c600-4c19-4a3d-94da-49f666f24707_SnapTik.ltd_1703403970.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\3c5f72e7-eadb-4c26-979a-15c0f66dfccc_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\3c5f72e7-eadb-4c26-979a-15c0f66dfccc_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\3c74af22-7f78-4bc5-8185-ecbc6264ce48_Cat2.PNG",
+      "PackagePath": "staticwebassets\\images\\3c74af22-7f78-4bc5-8185-ecbc6264ce48_Cat2.PNG"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\3cfef88a-d763-4838-b59e-20790ae2b904_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\3cfef88a-d763-4838-b59e-20790ae2b904_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\45eb84bf-8e61-41c2-8a80-87eb92bd0ca2_SnapTik.ltd_1703403965.jpeg",
+      "PackagePath": "staticwebassets\\images\\45eb84bf-8e61-41c2-8a80-87eb92bd0ca2_SnapTik.ltd_1703403965.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\506c6b62-f80e-4ecc-97b6-edc7ff937f3f_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\506c6b62-f80e-4ecc-97b6-edc7ff937f3f_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\5083bbca-7e95-41f2-b9d1-baaa76ee5c85_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\5083bbca-7e95-41f2-b9d1-baaa76ee5c85_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\5140db56-d7b2-4b42-a787-45665e63d789_SnapTik.ltd_1703403972.jpeg",
+      "PackagePath": "staticwebassets\\images\\5140db56-d7b2-4b42-a787-45665e63d789_SnapTik.ltd_1703403972.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\533023e4-ffd9-4f3f-9b51-ac53412db506_SnapTik.ltd_1703403974.jpeg",
+      "PackagePath": "staticwebassets\\images\\533023e4-ffd9-4f3f-9b51-ac53412db506_SnapTik.ltd_1703403974.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\5f2b81fd-b5e5-48f4-aa6a-db7fb52963e6_SnapTik.ltd_1703403972 (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\5f2b81fd-b5e5-48f4-aa6a-db7fb52963e6_SnapTik.ltd_1703403972 (1).jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\7db2a0fd-01ef-4069-913c-7a2d73067f44_SnapTik.ltd_1703403968 (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\7db2a0fd-01ef-4069-913c-7a2d73067f44_SnapTik.ltd_1703403968 (1).jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\7f122060-15d4-4acd-b6d4-f488059d037a_SnapTik.ltd_1703403963.jpeg",
+      "PackagePath": "staticwebassets\\images\\7f122060-15d4-4acd-b6d4-f488059d037a_SnapTik.ltd_1703403963.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\891c83b5-b9e4-40b0-98bb-a93d76b5cb04_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\891c83b5-b9e4-40b0-98bb-a93d76b5cb04_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\8de14ed8-6c02-4643-a453-ea7ac8fae1ab_SnapTik.ltd_1703403974.jpeg",
+      "PackagePath": "staticwebassets\\images\\8de14ed8-6c02-4643-a453-ea7ac8fae1ab_SnapTik.ltd_1703403974.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\8fbcd5e3-c634-4eb2-87f1-55e4ce50bfde_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\8fbcd5e3-c634-4eb2-87f1-55e4ce50bfde_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\9b9c926e-3994-4036-93a2-8d6233794dae_SnapTik.ltd_1703403974.jpeg",
+      "PackagePath": "staticwebassets\\images\\9b9c926e-3994-4036-93a2-8d6233794dae_SnapTik.ltd_1703403974.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\aaf6ca13-0b38-4e27-aff1-8049a0d33dc6_SnapTik.ltd_1703403974 (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\aaf6ca13-0b38-4e27-aff1-8049a0d33dc6_SnapTik.ltd_1703403974 (1).jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\b1a0eee4-b6ff-477b-a618-95fb21384536_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\b1a0eee4-b6ff-477b-a618-95fb21384536_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\b23968db-f719-46ac-a2c7-1cf693e1c668_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\b23968db-f719-46ac-a2c7-1cf693e1c668_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\b5fa341a-584c-48d5-a348-af672b4c2208_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\b5fa341a-584c-48d5-a348-af672b4c2208_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\bed9dd7c-65c4-49d2-bd9e-b88cde729057_SnapTik.ltd_1703403975.jpeg",
+      "PackagePath": "staticwebassets\\images\\bed9dd7c-65c4-49d2-bd9e-b88cde729057_SnapTik.ltd_1703403975.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\bffaef51-dfbd-45b7-ae99-6d028e27d5bc_SnapTik.ltd_1703403974 (1).jpeg",
+      "PackagePath": "staticwebassets\\images\\bffaef51-dfbd-45b7-ae99-6d028e27d5bc_SnapTik.ltd_1703403974 (1).jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\c30fd7e7-b377-4f4f-a064-4ba5b1c9dd97_SnapTik.ltd_1703403964.jpeg",
+      "PackagePath": "staticwebassets\\images\\c30fd7e7-b377-4f4f-a064-4ba5b1c9dd97_SnapTik.ltd_1703403964.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\c59a7f39-5499-4ccf-94c0-ec3c0ea7ed9c_SnapTik.ltd_1703403972.jpeg",
+      "PackagePath": "staticwebassets\\images\\c59a7f39-5499-4ccf-94c0-ec3c0ea7ed9c_SnapTik.ltd_1703403972.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\deec54c1-e987-43fb-978d-dc4127396532_SnapTik.ltd_1703403965.jpeg",
+      "PackagePath": "staticwebassets\\images\\deec54c1-e987-43fb-978d-dc4127396532_SnapTik.ltd_1703403965.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\f420691b-b5ea-49c5-9736-275c279e63ac_SnapTik.ltd_1703403973.jpeg",
+      "PackagePath": "staticwebassets\\images\\f420691b-b5ea-49c5-9736-275c279e63ac_SnapTik.ltd_1703403973.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\f5417da4-98c4-4540-8eda-8ecba151fece_SnapTik.ltd_1703403973.jpeg",
+      "PackagePath": "staticwebassets\\images\\f5417da4-98c4-4540-8eda-8ecba151fece_SnapTik.ltd_1703403973.jpeg"
+    },
+    {
+      "Id": "D:\\Study\\1670 Test\\BookStore\\BookStore\\wwwroot\\images\\feed4d4c-2906-4cdd-97e4-4323bde9c16b_SnapTik.ltd_1703403973.jpeg",
+      "PackagePath": "staticwebassets\\images\\feed4d4c-2906-4cdd-97e4-4323bde9c16b_SnapTik.ltd_1703403973.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BookStore.props",
+      "PackagePath": "build\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStore.props",
+      "PackagePath": "buildMultiTargeting\\BookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookStore.props",
+      "PackagePath": "buildTransitive\\BookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
